@@ -25,6 +25,27 @@ This project uses **unsupervised learning** to segment customers based on purcha
 - scikit-learn
 - Jupyter Notebook or any Python IDE
 
+## 📌 Key Results
+Found optimal number of clusters with the Elbow Method
 
+Segmented customers into behavior-driven groups
+
+Gained insights to drive business decisions (e.g. targeted campaigns, promotions)
+
+## 💡 Future Improvements
+Add Genre (Gender) as a categorical feature with encoding
+
+Test other clustering algorithms (DBSCAN, Hierarchical)
+
+Deploy interactive dashboard using Power BI or Streamlit
+
+## 🙋‍♀️ About Me
+I’m Rocío, an Industrial Engineering student turned Data Analyst with a passion for automation, optimization, and business insights.
+Check out more on LinkedIn or see my portfolio on GitHub.
+
+## 📬 Contact
+Feel free to reach out for collaborations or feedback!
+tunidev56@gmail.com
+## Give a star to this repo if it was useful
 
 
